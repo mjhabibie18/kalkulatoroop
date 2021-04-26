@@ -1,0 +1,13 @@
+C:\Users\aden\Desktop\Bootcamp\habibie\habibie\bin\Debug\netcoreapp3.1\habibie.exe
+C:\Users\aden\Desktop\Bootcamp\habibie\habibie\bin\Debug\netcoreapp3.1\habibie.deps.json
+C:\Users\aden\Desktop\Bootcamp\habibie\habibie\bin\Debug\netcoreapp3.1\habibie.runtimeconfig.json
+C:\Users\aden\Desktop\Bootcamp\habibie\habibie\bin\Debug\netcoreapp3.1\habibie.runtimeconfig.dev.json
+C:\Users\aden\Desktop\Bootcamp\habibie\habibie\bin\Debug\netcoreapp3.1\habibie.dll
+C:\Users\aden\Desktop\Bootcamp\habibie\habibie\bin\Debug\netcoreapp3.1\habibie.pdb
+C:\Users\aden\Desktop\Bootcamp\habibie\habibie\obj\Debug\netcoreapp3.1\habibie.csprojAssemblyReference.cache
+C:\Users\aden\Desktop\Bootcamp\habibie\habibie\obj\Debug\netcoreapp3.1\habibie.AssemblyInfoInputs.cache
+C:\Users\aden\Desktop\Bootcamp\habibie\habibie\obj\Debug\netcoreapp3.1\habibie.AssemblyInfo.cs
+C:\Users\aden\Desktop\Bootcamp\habibie\habibie\obj\Debug\netcoreapp3.1\habibie.csproj.CoreCompileInputs.cache
+C:\Users\aden\Desktop\Bootcamp\habibie\habibie\obj\Debug\netcoreapp3.1\habibie.dll
+C:\Users\aden\Desktop\Bootcamp\habibie\habibie\obj\Debug\netcoreapp3.1\habibie.pdb
+C:\Users\aden\Desktop\Bootcamp\habibie\habibie\obj\Debug\netcoreapp3.1\habibie.genruntimeconfig.cache
